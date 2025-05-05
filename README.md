@@ -6,20 +6,22 @@
 <h2>👩🏻‍💻 Data Analytics Projects:</h2>
 
 - <b>SQL</b>
-  - 
+  - [ERD for cinema_log Database](https://drawsql.app/teams/none-2722/diagrams/movies/embed)
+  - ***In progress:*** cinema_log MYSQL Database 
 - <b>Tableau</b>
   - 
 - <b>Microsoft Excel</b>
   - 
 - <b>R</b>
-  - 
+  - ***In progress:*** Google Data Analytics Capstone
 - <b>Python</b>
   - 
 
 <h2>📚 Certificates & Degrees </h2>
+
 - BS in Elementary Education with a Focus in Mathematics 
-- Google Data Analytics Certification 
-- In progress: Google Advanced Data Analytics Certification
+- ***In progress:*** Google Data Analytics Certification 
+- ***In progress:*** Google Advanced Data Analytics Certification
 
 <h2> 🤳 Connect with me:</h2>
 
