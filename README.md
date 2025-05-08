@@ -17,6 +17,7 @@ I plan to leverage my skills to pursue a career existing at the intersection of 
   - [ERD for cinema_log Database](https://drawsql.app/teams/none-2722/diagrams/movies/embed)
   - ***In progress:*** cinema_log MYSQL Database 
 - <b>Tableau</b>
+  - [Video Game Sales By Genre](https://public.tableau.com/shared/4DFW72ZPM?:display_count=n&:origin=viz_share_link)
 - <b>Spreadsheets</b>
 - <b>R</b>
   - ***In progress:*** Google Data Analytics Capstone
