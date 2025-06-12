@@ -18,16 +18,18 @@ I plan to leverage my skills to pursue a career existing at the intersection of 
   - ***In progress:*** cinema_log MYSQL Database 
 - <b>Tableau</b>
   - [Video Game Sales By Genre](https://public.tableau.com/shared/4DFW72ZPM?:display_count=n&:origin=viz_share_link)
+  - [Bellabeat Case Study - Google Data Analytics Capstone](https://public.tableau.com/views/BellabeatCaseStudy_17481137267880/Title?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - <b>Spreadsheets</b>
+  - [Bellabeat Case Study - Google Data Analytics Capstone](https://public.tableau.com/views/BellabeatCaseStudy_17481137267880/Title?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - <b>R</b>
-  - ***In progress:*** Google Data Analytics Capstone
 - <b>Python</b>
 
-<h2>📚 Certificates & Degrees </h2>
+<h2>📚 Certificates, Courses, & Degrees </h2>
 
 - BS in Elementary Education with a Focus in Mathematics 
-- ***In progress:*** Google Data Analytics Certification 
+- Google Data Analytics Certification 
 - ***In progress:*** Google Advanced Data Analytics Certification
+- ***In progress:*** Introduction to Statistics at YCCC
 
 <h2>Data Analytics Toolbox</h2>
 
