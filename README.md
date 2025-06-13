@@ -21,6 +21,7 @@ I plan to leverage my skills to pursue a career existing at the intersection of 
   - [Bellabeat Case Study - Google Data Analytics Capstone](https://public.tableau.com/views/BellabeatCaseStudy_17481137267880/Title?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - <b>Spreadsheets</b>
   - [Bellabeat Case Study - Google Data Analytics Capstone](https://public.tableau.com/views/BellabeatCaseStudy_17481137267880/Title?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  - [Cafe Sales Data Cleaning](https://mainecc-my.sharepoint.com/:x:/r/personal/danielle_oconnell_mainecc_edu/Documents/Cafe%20Sales%20Data.xlsx?d=wf6cbb49a297f461db86d449ed2562b1a&csf=1&web=1&e=JiYA4z)
 - <b>R</b>
 - <b>Python</b>
 
