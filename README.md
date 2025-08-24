@@ -28,9 +28,9 @@ I plan to leverage my skills to pursue a career existing at the intersection of 
 <h2>📚 Certificates, Courses, & Degrees </h2>
 
 - BS in Elementary Education with a Focus in Mathematics 
-- Google Data Analytics Certification 
+- Google Data Analytics Certification - Spring 2025
 - ***In progress:*** Google Advanced Data Analytics Certification
-- ***In progress:*** Introduction to Statistics at YCCC
+-  Introduction to Statistics at YCCC - Spring 2025
 
 <h2>Data Analytics Toolbox</h2>
 
