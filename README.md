@@ -8,7 +8,7 @@ My journey into data began during my education at the University of Southern Mai
 <br/>
 During my recidency in a first-grade classroom, I worked with data to design structured lesson plans and educational interventions, aiming to increase student success. This hands-on experience allowed me to develop skills in data literacy, critical-thinking, problem-solving, and evidence-based decision making. These are all skills that transfer naturally into the world of data.<br/>
 <br/>
-I plan to leverage my skills to pursue a career existing at the intersection of education and data. My passion lies within mathematics, lifelong learning, and using data to create meaningful change in the world. I look forward to connecting with professionas and creating projects that reflect my career goals while showcasing my growth as a data professional.
+I plan to leverage my skills to pursue a career existing at the intersection of education and data. My passion lies within mathematics, lifelong learning, and using data to create meaningful change in the world. I look forward to connecting with professionals and creating projects that reflect my career goals while showcasing my growth as a data professional.
 
 
 <h2>👩🏻‍💻 Data Analytics Projects:</h2>
