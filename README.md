@@ -17,10 +17,9 @@ I plan to leverage my skills to pursue a career existing at the intersection of 
   - [ERD for cinema_log Database](https://drawsql.app/teams/none-2722/diagrams/movies/embed)
   - ***In progress:*** cinema_log MYSQL Database 
 - <b>Tableau</b>
-  - [Video Game Sales By Genre]([https://public.tableau.com/shared/4DFW72ZPM?:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/VideoGameSalesByGenre_17467355741110/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
-  - [Bellabeat Case Study - Google Data Analytics Capstone]([https://public.tableau.com/views/BellabeatCaseStudy_17481137267880/Title?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/BellabeatCaseStudy_17481137267880/Title?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
-  - [Coffee Sales EDA]([https://public.tableau.com/views/CoffeeSalesEDA/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/CoffeeSalesEDA/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
-- <b>Spreadsheets</b>
+  - [Video Game Sales By Genre](https://public.tableau.com/views/VideoGameSalesByGenre_17467355741110/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  - [Bellabeat Case Study - Google Data Analytics Capstone](https://public.tableau.com/views/BellabeatCaseStudy_17481137267880/Title?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  - [Coffee Sales EDA](https://public.tableau.com/views/CoffeeSalesEDA/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
   - [Bellabeat Case Study - Google Data Analytics Capstone](https://public.tableau.com/views/BellabeatCaseStudy_17481137267880/Title?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
   - [Cafe Sales Data Cleaning](https://mainecc-my.sharepoint.com/:x:/r/personal/danielle_oconnell_mainecc_edu/Documents/Cafe%20Sales%20Data.xlsx?d=wf6cbb49a297f461db86d449ed2562b1a&csf=1&web=1&e=JiYA4z)
 - <b>Python</b>
